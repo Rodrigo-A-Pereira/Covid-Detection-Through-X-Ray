@@ -24,7 +24,7 @@ If you have found this studies useful in your work, please consider citing our [
 
 ```bibtex
 @INPROCEEDINGS{9311372,
-  author={Hernandez, Diego and Pereira, Rodrigo and Georgevia, Petia},
+  author={Hernandez, Diego and Pereira, Rodrigo and Georgieva, Petia},
   booktitle={2020 International Conference Automatics and Informatics (ICAI)}, 
   title={COVID-19 detection through X-Ray chest images}, 
   year={2020},
