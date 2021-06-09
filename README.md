@@ -17,7 +17,7 @@ Given the samll number of Covid-positive we had to work wit, Transefer Learning 
 
 VGG16                      |  ResNet50
 :-------------------------:|:-------------------------:
-![](https://github.com/Rodrigo-A-Pereira/COVID-19-detection-through-X-Ray-chest-images/blob/main/VGG16.png)                      |  ![](https://github.com/Rodrigo-A-Pereira/COVID-19-detection-through-X-Ray-chest-images/blob/main/ResNet50.png)
+![](https://github.com/Rodrigo-A-Pereira/Covid-Detection-Through-X-Ray/blob/main/VGG16.png)                      |  ![](https://github.com/Rodrigo-A-Pereira/Covid-Detection-Through-X-Ray/blob/main/ResNet50.png)
 
 ## Citation 
 If you have found this studies useful in your work, please consider citing our [paper](https://doi.org/10.1109/ICAI50593.2020.9311372)
