@@ -9,6 +9,8 @@ and Interventional Radiology website](https://www.sirm.org/category/senzacategor
 
 Non-Covid cases images where obtained from the [ChexPert dataset](https://stanfordmlgroup.github.io/competitions/chexpert/) provided by Standford University's ML group.
 
+Since the datastes (namely [ChexPert dataset](https://stanfordmlgroup.github.io/competitions/chexpert/)) have non sharing agreements associated with them we do not share those. In order to replicate our work you have to firstly fetch images from those resources.
+
 ## Architectures Used
 
 Given the samll number of Covid-positive we had to work wit, Transefer Learning was one of the best approaches available. As such we used pretrained ResNet50 and VGG16 models traied with ImageNet, froze the parameters and added a final group of trainable dense layers.
